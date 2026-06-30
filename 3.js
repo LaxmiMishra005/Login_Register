@@ -27,7 +27,7 @@ if (registerForm) {
 
         alert("Registration Successful!");
 
-        window.location.href="login.html";
+        window.location.href="Login.html";
 
     });
 
@@ -54,7 +54,7 @@ if(loginForm){
 
             alert("Login Successful!");
 
-            window.location.href="2.html";
+            window.location.href="index.html";
 
         }else{
 
